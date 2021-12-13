@@ -15,5 +15,5 @@ Hence, company needs your help in identifying the eligible candidates at a parti
 
 In the intial approach we have filled null values with the mode and meadian which did not have a good F1 scores but later we have follwed and logical method 
 and used ffill and bfill which gave promissing results .
-Hyper parameter is done for both logistic regressiona nd XG boost and voting calssifier is used to get the final results 
+Hyper parameter is done for XGBoost , but the initial results showed the promissig results 
  
